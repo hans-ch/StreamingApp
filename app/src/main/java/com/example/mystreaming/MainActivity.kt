@@ -7,6 +7,7 @@ import androidx.activity.ComponentActivity
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
+import com.lfcom.firstandroid.ReviewScreen
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -16,6 +17,7 @@ class MainActivity : ComponentActivity() {
             MaterialTheme {
                 Surface {
                     HomeScreen()
+                    //ReviewScreen()
                 }
             }
         }

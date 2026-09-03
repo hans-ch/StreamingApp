@@ -28,7 +28,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
-
+//Item filme e seus atributos
 data class MediaItem(
     val id : Int,
     val title: String,
@@ -36,6 +36,7 @@ data class MediaItem(
     val rating: String
 )
 
+//Lista com itens de teste
 val sampleMediaList = listOf(
     MediaItem(1, "Jornada pro Oeste", "2012", "6.7"),
     MediaItem(2, "A mulher na lua", "1997", "7.7"),
@@ -120,8 +121,7 @@ fun MediaCard(item: MediaItem) {
                     maxLines = 1
                 )
                 Row(
-                    modifier = Modifier.fillMaxWidth(),
-                    horizontalArrangement = Arrangement.SpaceBetween
+                    modifier = Modifier.fillMaxWidth()
                 ) {
                     Text(text = item.year, color = Color.LightGray, fontSize = 9.sp)
                     Text(text = item.rating, color = Color.White, fontSize = 9.sp)
