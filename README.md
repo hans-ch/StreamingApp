@@ -25,15 +25,15 @@ Nesta etapa fizemos um rascunho de como seriam algumas das tela principais do ap
 
 Tela de login
 
-<img width="720" height="1280" alt="telaLogin" src="https://github.com/user-attachments/assets/daa75a39-2271-4831-a2ae-f9ee9f6b1541" />
+<img width="480" alt="telaLogin" src="https://github.com/user-attachments/assets/daa75a39-2271-4831-a2ae-f9ee9f6b1541" />
 
 Tela de cadastro
 
-<img width="720" height="1280" alt="telaCadastro" src="https://github.com/user-attachments/assets/9d89e400-efee-44d9-8408-8ec53f14f20d" />
+<img width="480" alt="telaCadastro" src="https://github.com/user-attachments/assets/9d89e400-efee-44d9-8408-8ec53f14f20d" />
 
 Tela home
 
-<img width="720" height="1280" alt="telaHome" src="https://github.com/user-attachments/assets/42eaf724-b483-476c-84df-20766f2a4eaa" />
+<img width="480" alt="telaHome" src="https://github.com/user-attachments/assets/42eaf724-b483-476c-84df-20766f2a4eaa" />
 
 Tela de descrição
 
