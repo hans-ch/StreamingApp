@@ -18,6 +18,7 @@ class MainActivity : ComponentActivity() {
                 Surface {
                     HomeScreen()
                     //ReviewScreen()
+                    //DetalhesScreen()
                 }
             }
         }
