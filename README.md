@@ -40,6 +40,7 @@ Tela de descrição
 <img width="480" alt="telaDescrição" src="https://github.com/user-attachments/assets/074165a1-608a-4005-bd6d-78726dbb08d6" />
 
 Tela de avaliação
+
 <img width="480" alt="telaAvaliacao" src="https://github.com/user-attachments/assets/619270d0-1c53-4c71-9d87-2de144e942be" />
 
 
