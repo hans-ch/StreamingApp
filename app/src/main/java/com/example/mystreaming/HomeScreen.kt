@@ -49,7 +49,7 @@ val sampleMediaList = listOf(
 fun HomeScreen() {
     Column(modifier = Modifier
         .fillMaxSize()
-        .background(Color(0xFF1E2A78)) // Cor de fundo azul similar ao layout
+        .background(Color(0xFF1E2A78))
         .verticalScroll(rememberScrollState())
         .padding(bottom = 24.dp)){
         Row(modifier = Modifier
