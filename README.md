@@ -17,9 +17,9 @@ Catálogo de filmes e séries unificada estilo aplicativo de streaming
 ## Etapa 1 - Idealização
 
 Nesta etapa fizemos um rascunho de como seriam algumas das tela principais do aplicativo:
-<img width="720" height="957" alt="desenho1" src="https://github.com/user-attachments/assets/7055b1ae-5910-4370-80da-957d76395f4b" />
-<img width="720" height="957" alt="desenho3" src="https://github.com/user-attachments/assets/263e0676-45cf-4584-ba17-c6fad3ac2a7b" />
-<img width="720" height="957" alt="desenho2" src="https://github.com/user-attachments/assets/86ee9463-4ece-4aa1-b4b6-33bde4915eb9" />
+<img width="480" alt="desenho1" src="https://github.com/user-attachments/assets/7055b1ae-5910-4370-80da-957d76395f4b" />
+<img width="480" alt="desenho3" src="https://github.com/user-attachments/assets/263e0676-45cf-4584-ba17-c6fad3ac2a7b" />
+<img width="480" alt="desenho2" src="https://github.com/user-attachments/assets/86ee9463-4ece-4aa1-b4b6-33bde4915eb9" />
 
 ## Etapa 2 - Criação de mockups e definição do estilo visual
 
@@ -37,10 +37,10 @@ Tela home
 
 Tela de descrição
 
-<img width="720" height="1280" alt="telaDescrição" src="https://github.com/user-attachments/assets/074165a1-608a-4005-bd6d-78726dbb08d6" />
+<img width="480" alt="telaDescrição" src="https://github.com/user-attachments/assets/074165a1-608a-4005-bd6d-78726dbb08d6" />
 
 Tela de avaliação
-<img width="720" height="1280" alt="telaAvaliacao" src="https://github.com/user-attachments/assets/619270d0-1c53-4c71-9d87-2de144e942be" />
+<img width="480" alt="telaAvaliacao" src="https://github.com/user-attachments/assets/619270d0-1c53-4c71-9d87-2de144e942be" />
 
 
 
